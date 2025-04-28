@@ -1,0 +1,1 @@
+# cs550-lab-4--first-order-logic-proofs-in-lisa-solved
